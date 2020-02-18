@@ -1,1 +1,1 @@
-# bobs-extraterrestrial-adventures
+This is our Game Programming game, BETA. 
